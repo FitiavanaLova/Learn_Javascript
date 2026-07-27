@@ -1,5 +1,5 @@
 const compteur = document.getElementById("compteur");
-const btn = document.querySelector("button");
+const btn = document.getElementById("btn");
 
 
 
